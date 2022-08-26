@@ -12,7 +12,7 @@ const Title = Styled.Text`
 `;
 
 const CastContainer = Styled.View`
-    padding: 0pz 4px;
+    padding: 0px 4px;
 `;
 
 const CastImage = Styled.Image``;
